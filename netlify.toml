@@ -13,7 +13,7 @@ LANDING_PAGE = "Home"
 LANDING_TITLE = "HTTP/3"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/czlmk/http3"
+REPO_URL = ""
 # (Optional) Site title in navbar
 SITE_TITLE = "http/3"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)

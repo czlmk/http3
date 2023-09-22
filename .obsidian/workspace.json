@@ -64,7 +64,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "The Point of HTTP3/HOL Blocking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "The Point of HTTP3/HOL Blocking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "The Point of HTTP3/HOL Blocking.md"
               }
             }
           }
@@ -191,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cb173f169645cba",
+  "active": "89ba6bfdd693c81b",
   "lastOpenFiles": [
-    "http-3.canvas",
     "Home.md",
+    "http-3.canvas",
     "HTTP 3 structures/Structures of Different Aspects.md",
     "HTTP 3 structures",
     "The Point of HTTP3/Untitled",
