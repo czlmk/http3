@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "0daa364ddde2fa33",
+    "type": "split",
+    "children": [
+      {
+        "id": "4367b3ef288b40c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e5665fcf8dfd209",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "http-3.canvas",
+                "viewState": {
+                  "x": -312.9505980436936,
+                  "y": -1577.279832757063,
+                  "zoom": -0.20370201342673705
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6eb7521916103cd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b971fcce0221a0bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b856cb8dc553db6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35721c47acc4a866",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f9ed30d5ca7c9ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c151f7a157c3458d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e41d5d7e6e6db463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3c9f91deff7cbb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "http-3.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "550f3c83abda9723",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "http-3.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "175eac9f6fc23207",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "801933cb764c631d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "http-3.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6e5665fcf8dfd209",
+  "lastOpenFiles": [
+    "Pasted image 20230922141343.png",
+    "Pasted image 20230922141034.png",
+    "Why Create HTTP 3.md",
+    "http-3.canvas",
+    "Pasted image 20230922110106.png",
+    "Pasted image 20230922102146.png",
+    "Pasted image 20230922102054.png",
+    "Pasted image 20230922101228.png",
+    "Pasted image 20230922101205.png",
+    "Pasted image 20230922092456.png",
+    "Pasted image 20230922092305.png",
+    "Pasted image 20230922092126.png",
+    "Pasted image 20230922100447.png"
+  ]
+}
