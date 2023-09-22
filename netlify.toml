@@ -4,13 +4,13 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "LANDING_BUTTON"
+LANDING_BUTTON = "Start here"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "http3 related info"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "home"
+LANDING_PAGE = "Why Create HTTP 3"
 # (Optional) Site title on landing page
-LANDING_TITLE = "LANDING_TITLE"
+LANDING_TITLE = "HTTP/3 notes"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/czlmk/http3"
