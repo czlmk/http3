@@ -4,11 +4,11 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Start here"
+# LANDING_BUTTON = "Start here"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "http3 related info"
+# LANDING_DESCRIPTION = "http3 related info"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "WhyHTTP3"
+# LANDING_PAGE = "Why HTTP3"
 # (Optional) Site title on landing page
 LANDING_TITLE = "HTTP/3 notes"
 PYTHON_VERSION = "3.8"
