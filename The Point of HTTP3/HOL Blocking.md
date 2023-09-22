@@ -5,4 +5,4 @@
 
 https://cabulous.medium.com/http-3-quic-and-how-it-works-c5ffdb6735b4
 
-2. As TCP, employed by HTTP/2, considers every request (including multiplexed ones) as a single byte stream. This approach employed by TCP is usually the cause of HOL issues during multiplexed streaming in HTTP/2. In HTTP/3, the issue is addressed via implementation of UDP’s out-of-order delivery, where each byte stream is transported independently over the network.
+2. In HTTP/3, the issue is addressed via implementation of UDP’s out-of-order delivery, allowing data packets to be processed as they arrive, regardless of their original send order.
