@@ -1,3 +1,5 @@
+Problems HTTP 3 aims to solve
+
 1. **TCP Head-of-Line Blocking**: Even though HTTP/2 introduced multiplexing (multiple requests and responses over a single connection), it was still susceptible to head-of-line blocking at the TCP level. If a single packet was lost, it would block all streams, even if the packet was only relevant to one of them. 
  
 2. **Connection Establishment and Handshake Overhead**: Establishing a secure connection using TCP and TLS requires multiple round-trips between the client and the server. This added latency, especially when a new connection was required. QUIC, on which HTTP/3 is built, provides a faster handshake process and supports zero round-trip time (0-RTT) resumption.

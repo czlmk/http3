@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why HTTP3.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why HTTP3.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why HTTP3.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why HTTP3.md"
+                "file": "Home.md"
               }
             }
           }
@@ -193,8 +193,9 @@
   },
   "active": "7cb173f169645cba",
   "lastOpenFiles": [
-    "HTTP 3 structures/Structures of Different Aspects.md",
     "http-3.canvas",
+    "Home.md",
+    "HTTP 3 structures/Structures of Different Aspects.md",
     "HTTP 3 structures",
     "The Point of HTTP3/Untitled",
     "The Point of HTTP3/Security.md",
@@ -205,7 +206,6 @@
     "Pasted image 20230922155558.png",
     "Pasted image 20230922155531.png",
     "The Point of HTTP3",
-    "Why HTTP3.md",
     "netlify.toml",
     "netlify.toml.txt",
     "New Text Document.txt",
